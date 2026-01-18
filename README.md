@@ -8,5 +8,5 @@ dus de schieter is een pool stok en elke bal geeft een verschillende multiplier 
 
 GD - M2 - GDV: Opdracht 1A: Array
 
-![](Arrays.gif)
+![](Gifs/Arrays.gif)
 
